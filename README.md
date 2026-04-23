@@ -24,4 +24,4 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Mazen
+Mazen Maher
